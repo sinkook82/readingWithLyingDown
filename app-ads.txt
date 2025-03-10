@@ -9,6 +9,6 @@ orangeexchange.com, 45678, RESELLER
 
 silverssp.com, ABE679, RESELLER
 
-google.com, pub-8141682973444053, DIRECT, f08c47fec0942fa0
+sinkook82.github.io, pub-8141682973444053, DIRECT, f08c47fec0942fa0
 
 
